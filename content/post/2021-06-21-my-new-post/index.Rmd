@@ -1,0 +1,12 @@
+---
+title: my new post
+author: yongkk
+date: '2021-06-21'
+slug: my-new-post
+categories:
+  - R
+tags:
+  - plot
+---
+this is my first post!!!!!!
+
